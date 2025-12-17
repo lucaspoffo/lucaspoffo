@@ -1,4 +1,5 @@
-Trying to make Rust game networking ecosystem easier.
+Software engineer with Ruby on Rails, React, Rust and Odin experience.
+Trying to make game networking ecosystem easier.
 
 ### Projects
 
