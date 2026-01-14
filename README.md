@@ -1,8 +1,9 @@
 Software engineer with Ruby on Rails, React, Rust and Odin experience.
-Trying to make game networking ecosystem easier.
+Interested in network protocols and making games.
 
 ### Projects
 
+- [TKR](https://github.com/lucaspoffo/tkr): P2P Rollback Network library for Odin.
 - [Renet](https://github.com/lucaspoffo/renet): Server/Client Network library for games written in Rust.
 - [Bit Serializer](https://github.com/lucaspoffo/bit_serializer): Serialize data with control of every bit.
 - [Shiyard Rapier](https://github.com/lucaspoffo/shipyard_rapier): An [rapier](https://github.com/dimforge/rapier/) Physics Engine plugin for the [shipyard](https://github.com/leudz/shipyard/) ECS.
